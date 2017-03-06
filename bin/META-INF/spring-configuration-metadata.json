@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.DemoConfigAppApplication$ConfigurationProjectProperties",
+      "name": "configuration",
+      "type": "com.example.DemoConfigAppApplication$ConfigurationProjectProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.DemoConfigAppApplication$ConfigurationProjectProperties",
+      "name": "configuration.project-name",
+      "type": "java.lang.String"
+    }
+  ]
+}
